@@ -99,3 +99,4 @@ return types.newfunction({
 ### Do Nothing
 Developers will continue to see anonymous `(type1, type2)` signatures in autocomplete for dynamically generated function types, forcing them to rely on external documentation or inline comments to understand the purpose of the arguments.
 
+
